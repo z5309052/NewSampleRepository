@@ -1,3 +1,4 @@
 Sample Text
 Hello
 This is my first time on Git.
+This is a change.
