@@ -1,0 +1,3 @@
+Sample Text
+Hello
+This is my first time on Git.
